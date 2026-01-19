@@ -69,9 +69,11 @@
 		<dc:source>https://archive.org/details/sim_redbook_1916-11_28</dc:source>
 		<!-- Tour Y-10: v.45-46(1916-1917); Page 156 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000057192</dc:source>
+		<!-- The Holdout: Page 8 -->
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1917-03-24_189_39</dc:source>
 		<!-- Manual Transcriptions -->
 		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead!, Good for the Soul -->
-		<!-- A One-Man Team, Tour Y-10 -->
+		<!-- A One-Man Team, Tour Y-10, The Holdout -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
