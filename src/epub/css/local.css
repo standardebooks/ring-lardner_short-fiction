@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* letters */
+/* letters and diary entries */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -27,14 +27,19 @@ p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
-div[epub|type~="z3998:letter"]{
+div[epub|type~="z3998:letter"],
+[epub|type~="z3998:diary-entry"] + [epub|type~="z3998:diary-entry"]{
 	margin: 1em 0;
 }
 
 .telegram{
 	font-variant: all-small-caps;
 }
-/* end letters */
+
+[epub|type~="se:diary.dateline"]{
+	font-style: italic;
+}
+/* end letters and diary entries */
 
 /* poetry, songs */
 [epub|type~="z3998:song"] p,
