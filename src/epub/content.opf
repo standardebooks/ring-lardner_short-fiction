@@ -73,9 +73,11 @@
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1917-03-24_189_39</dc:source>
 		<!-- Ball-a-Hole: Page 16 -->
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1917-05-12_189_46</dc:source>
+		<!-- Gas, Oil and Air: Page 1 -->
+		<dc:source>https://archive.org/details/milestones-1917-06</dc:source>
 		<!-- Manual Transcriptions -->
 		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead!, Good for the Soul -->
-		<!-- A One-Man Team, Tour Y-10, The Holdout, Ball-a-Hole -->
+		<!-- A One-Man Team, Tour Y-10, The Holdout, Ball-a-Hole, Gas Oil and Air -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
