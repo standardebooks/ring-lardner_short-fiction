@@ -75,3 +75,9 @@ p span.i2{
 	text-indent: -1em;
 }
 /* end poetry, songs */
+
+/* Sign in "The Clubby Roadster */
+#the-clubby-roadster > blockquote{
+	font-variant: small-caps;
+}
+/* end of sign in "The Clubby Roadster */
