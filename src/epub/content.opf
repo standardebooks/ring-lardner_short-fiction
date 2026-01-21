@@ -146,6 +146,7 @@
 		<item href="text/the-crook.xhtml" id="the-crook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-facts.xhtml" id="the-facts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-holdout.xhtml" id="the-holdout.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-last-night.xhtml" id="the-last-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-yellow-kid.xhtml" id="the-yellow-kid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -179,6 +180,7 @@
 		<itemref idref="ball-a-hole.xhtml"/>
 		<itemref idref="gas-oil-and-air.xhtml"/>
 		<itemref idref="the-yellow-kid.xhtml"/>
+		<itemref idref="the-last-night.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
