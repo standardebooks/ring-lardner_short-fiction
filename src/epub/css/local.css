@@ -39,6 +39,12 @@ div[epub|type~="z3998:letter"],
 [epub|type~="se:diary.dateline"]{
 	font-style: italic;
 }
+
+[epub|type~="z3998:letter"] header > [epub|type~="z3998:salutation"]{
+	padding: 0;
+	text-align: initial;
+	text-indent: 0;
+}
 /* end letters and diary entries */
 
 /* poetry, songs */
