@@ -148,6 +148,7 @@
 		<item href="text/ball-a-hole.xhtml" id="ball-a-hole.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/champion.xhtml" id="champion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gas-oil-and-air.xhtml" id="gas-oil-and-air.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/good-for-the-soul.xhtml" id="good-for-the-soul.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/harmony.xhtml" id="harmony.xhtml" media-type="application/xhtml+xml"/>
@@ -164,6 +165,7 @@
 		<item href="text/the-last-night.xhtml" id="the-last-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-yellow-kid.xhtml" id="the-yellow-kid.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-young-immigrunts.xhtml" id="the-young-immigrunts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/tour-no-2.xhtml" id="tour-no-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tour-y-10.xhtml" id="tour-y-10.xhtml" media-type="application/xhtml+xml"/>
@@ -198,6 +200,8 @@
 		<itemref idref="the-last-night.xhtml"/>
 		<itemref idref="the-clubby-roadster.xhtml"/>
 		<itemref idref="a-chip-of-the-old-block.xhtml"/>
+		<itemref idref="the-young-immigrunts.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
