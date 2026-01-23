@@ -36,7 +36,8 @@ div[epub|type~="z3998:letter"],
 	font-variant: all-small-caps;
 }
 
-[epub|type~="se:diary.dateline"]{
+[epub|type~="se:diary.dateline"],
+#some-like-them-cold [epub|type~="se:letter.dateline"]{
 	font-style: italic;
 }
 
