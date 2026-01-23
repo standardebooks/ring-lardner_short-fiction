@@ -87,3 +87,10 @@ p span.i2{
 	font-variant: small-caps;
 }
 /* end of sign in "The Clubby Roadster */
+
+/* Newspaper Clippings */
+#the-big-town-1 > blockquote > header{
+	font-variant: small-caps;
+	text-align: center;
+}
+/* End Newspaper Clippings */
