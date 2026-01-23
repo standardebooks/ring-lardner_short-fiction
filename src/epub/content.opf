@@ -168,6 +168,7 @@
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/some-like-them-cold.xhtml" id="some-like-them-cold.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-big-town.xhtml" id="the-big-town.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-clubby-roadster.xhtml" id="the-clubby-roadster.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-crook.xhtml" id="the-crook.xhtml" media-type="application/xhtml+xml"/>
@@ -214,6 +215,7 @@
 		<itemref idref="the-young-immigrunts.xhtml"/>
 		<itemref idref="the-big-town.xhtml"/>
 		<itemref idref="a-frame-up.xhtml"/>
+		<itemref idref="some-like-them-cold.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
