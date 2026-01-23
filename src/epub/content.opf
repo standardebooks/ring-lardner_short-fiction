@@ -85,6 +85,9 @@
 		<!-- A Chip of the Old Block: Page 76 -->
 		<dc:source>https://en.wikisource.org/wiki/The_Red_Book_Magazine/Volume_31/Number_5/A_Chip_of_the_Old_Block</dc:source>
 		<dc:source>https://archive.org/details/sim_redbook_1918-09_31_5</dc:source>
+		<!-- The Big Town -->
+		<dc:source>https://archive.org/details/bwb_P9-ASN-561</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/77676</dc:source>
 		<!-- Manual Transcriptions -->
 		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead!, Good for the Soul -->
 		<!-- A One-Man Team, Tour Y-10, The Holdout, Ball-a-Hole, Gas Oil and Air, The Yellow Kid, The Last Night -->
@@ -124,6 +127,12 @@
 		<meta property="se:url.homepage" refines="#transcriber-5">https://en.wikisource.org/</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-5">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Tim Miller</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Miller, Tim</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Dori Allard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Allard, Dori</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
