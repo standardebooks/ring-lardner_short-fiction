@@ -32,4 +32,10 @@
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The single letters here are not graphemes or phonemes, just intentionally bad grammar.</reason>
 		</ignore>
 	</file>
+	<file path="the-battle-of-the-century.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>This appears to be a second paragraph from the same speaker. This is grammatically correct.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
