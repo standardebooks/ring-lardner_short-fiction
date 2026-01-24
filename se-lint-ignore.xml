@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="a-caddys-diary.xhtml">
+		<ignore>
+			<code>t-015</code>
+			<reason>The narrator of this story writes in an idiosyncratic style. Adding the commas to numbers would add enough polish to meaningfully alter his characterization.</reason>
+		</ignore>
+	</file>
 	<file path="champion.xhtml">
 		<ignore>
 			<code>t-029</code>
