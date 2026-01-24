@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* letters and diary entries */
+[epub|type~="z3998:diary-entry"] header,
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
