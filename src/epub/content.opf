@@ -169,6 +169,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gas-oil-and-air.xhtml" id="gas-oil-and-air.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/good-for-the-soul.xhtml" id="good-for-the-soul.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/haircut.xhtml" id="haircut.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/harmony.xhtml" id="harmony.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/horseshoes.xhtml" id="horseshoes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -235,6 +236,7 @@
 		<itemref idref="a-close-up-of-domba-splew.xhtml"/>
 		<itemref idref="what-of-it.xhtml"/>
 		<itemref idref="in-conference.xhtml"/>
+		<itemref idref="haircut.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
