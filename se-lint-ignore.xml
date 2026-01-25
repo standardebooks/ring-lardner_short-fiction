@@ -44,4 +44,14 @@
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The single letters here are not graphemes or phonemes, just intentionally bad grammar.</reason>
 		</ignore>
 	</file>
+	<file path="what-of-it.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>The question mark is inside the italics tag because the question mark is part of the title of the play.</reason>
+		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>Leaving this improperly titlecased because it's in a telegram which would not likely have been transmitted with proper capitalization in mind.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
