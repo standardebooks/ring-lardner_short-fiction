@@ -172,6 +172,7 @@
 		<item href="text/harmony.xhtml" id="harmony.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/horseshoes.xhtml" id="horseshoes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/in-conference.xhtml" id="in-conference.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-roomy.xhtml" id="my-roomy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
@@ -233,6 +234,7 @@
 		<itemref idref="bedtime-stories.xhtml"/>
 		<itemref idref="a-close-up-of-domba-splew.xhtml"/>
 		<itemref idref="what-of-it.xhtml"/>
+		<itemref idref="in-conference.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
