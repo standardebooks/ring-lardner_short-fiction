@@ -198,6 +198,7 @@
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-of-it.xhtml" id="what-of-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/where-do-you-get-that-noise.xhtml" id="where-do-you-get-that-noise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/women.xhtml" id="women.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/zone-of-quiet.xhtml" id="zone-of-quiet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -242,6 +243,7 @@
 		<itemref idref="haircut.xhtml"/>
 		<itemref idref="mr-and-mrs-fix-it.xhtml"/>
 		<itemref idref="zone-of-quiet.xhtml"/>
+		<itemref idref="women.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
