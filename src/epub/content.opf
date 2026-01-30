@@ -159,6 +159,7 @@
 		<item href="text/a-caddys-diary.xhtml" id="a-caddys-diary.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-chip-of-the-old-block.xhtml" id="a-chip-of-the-old-block.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-close-up-of-domba-splew.xhtml" id="a-close-up-of-domba-splew.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-day-with-conrad-green.xhtml" id="a-day-with-conrad-green.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-frame-up.xhtml" id="a-frame-up.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-one-man-team.xhtml" id="a-one-man-team.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/alibi-ike.xhtml" id="alibi-ike.xhtml" media-type="application/xhtml+xml"/>
@@ -246,6 +247,7 @@
 		<itemref idref="zone-of-quiet.xhtml"/>
 		<itemref idref="women.xhtml"/>
 		<itemref idref="the-love-nest.xhtml"/>
+		<itemref idref="a-day-with-conrad-green.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
