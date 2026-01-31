@@ -200,6 +200,7 @@
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/tour-no-2.xhtml" id="tour-no-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tour-y-10.xhtml" id="tour-y-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/travelogue.xhtml" id="travelogue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-of-it.xhtml" id="what-of-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/where-do-you-get-that-noise.xhtml" id="where-do-you-get-that-noise.xhtml" media-type="application/xhtml+xml"/>
@@ -255,6 +256,7 @@
 		<itemref idref="reunion.xhtml"/>
 		<itemref idref="who-dealt.xhtml"/>
 		<itemref idref="rhythm.xhtml"/>
+		<itemref idref="travelogue.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
