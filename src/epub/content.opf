@@ -182,6 +182,7 @@
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reunion.xhtml" id="reunion.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rhythm.xhtml" id="rhythm.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/some-like-them-cold.xhtml" id="some-like-them-cold.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-battle-of-the-century.xhtml" id="the-battle-of-the-century.xhtml" media-type="application/xhtml+xml"/>
@@ -253,6 +254,7 @@
 		<itemref idref="a-day-with-conrad-green.xhtml"/>
 		<itemref idref="reunion.xhtml"/>
 		<itemref idref="who-dealt.xhtml"/>
+		<itemref idref="rhythm.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
