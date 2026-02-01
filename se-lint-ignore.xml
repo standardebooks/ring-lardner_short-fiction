@@ -18,6 +18,12 @@
 			<reason>This appears to be a second paragraph from the same speaker. This is grammatically correct.</reason>
 		</ignore>
 	</file>
+	<file path="the-story-of-a-wonder-man.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>The title of a newspaper is embedded in these chapter titles, and so "The" is uppercase.</reason>
+		</ignore>
+	</file>
 	<file path="tour-no-2.xhtml">
 		<ignore>
 			<code>t-010</code>
