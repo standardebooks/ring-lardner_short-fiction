@@ -175,6 +175,7 @@
 		<item href="text/haircut.xhtml" id="haircut.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/harmony.xhtml" id="harmony.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/horseshoes.xhtml" id="horseshoes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/i-cant-breathe.xhtml" id="i-cant-breathe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-conference.xhtml" id="in-conference.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-and-mrs-fix-it.xhtml" id="mr-and-mrs-fix-it.xhtml" media-type="application/xhtml+xml"/>
@@ -257,6 +258,7 @@
 		<itemref idref="who-dealt.xhtml"/>
 		<itemref idref="rhythm.xhtml"/>
 		<itemref idref="travelogue.xhtml"/>
+		<itemref idref="i-cant-breathe.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
