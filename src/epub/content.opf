@@ -193,6 +193,7 @@
 		<item href="text/the-facts.xhtml" id="the-facts.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-golden-honeymoon.xhtml" id="the-golden-honeymoon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-holdout.xhtml" id="the-holdout.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-jade-necklace.xhtml" id="the-jade-necklace.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-night.xhtml" id="the-last-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-love-nest.xhtml" id="the-love-nest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
@@ -259,6 +260,7 @@
 		<itemref idref="rhythm.xhtml"/>
 		<itemref idref="travelogue.xhtml"/>
 		<itemref idref="i-cant-breathe.xhtml"/>
+		<itemref idref="the-jade-necklace.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
