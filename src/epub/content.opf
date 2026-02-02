@@ -199,6 +199,7 @@
 		<item href="text/in-conference.xhtml" id="in-conference.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-and-mrs-fix-it.xhtml" id="mr-and-mrs-fix-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-roomy.xhtml" id="my-roomy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/now-and-then.xhtml" id="now-and-then.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reunion.xhtml" id="reunion.xhtml" media-type="application/xhtml+xml"/>
@@ -285,6 +286,7 @@
 		<itemref idref="the-story-of-a-wonder-man.xhtml"/>
 		<itemref idref="sun-cured.xhtml"/>
 		<itemref idref="hurry-kane.xhtml"/>
+		<itemref idref="now-and-then.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
