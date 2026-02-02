@@ -218,6 +218,7 @@
 		<item href="text/the-last-night.xhtml" id="the-last-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-love-nest.xhtml" id="the-love-nest.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-spinning-wheel.xhtml" id="the-spinning-wheel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-a-wonder-man.xhtml" id="the-story-of-a-wonder-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-yellow-kid.xhtml" id="the-yellow-kid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-young-immigrunts.xhtml" id="the-young-immigrunts.xhtml" media-type="application/xhtml+xml"/>
@@ -287,6 +288,7 @@
 		<itemref idref="sun-cured.xhtml"/>
 		<itemref idref="hurry-kane.xhtml"/>
 		<itemref idref="now-and-then.xhtml"/>
+		<itemref idref="the-spinning-wheel.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
