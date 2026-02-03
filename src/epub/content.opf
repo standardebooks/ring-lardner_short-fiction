@@ -203,6 +203,7 @@
 		<item href="text/i-cant-breathe.xhtml" id="i-cant-breathe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-conference.xhtml" id="in-conference.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/man-not-overboard.xhtml" id="man-not-overboard.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-and-mrs-fix-it.xhtml" id="mr-and-mrs-fix-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/my-roomy.xhtml" id="my-roomy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/now-and-then.xhtml" id="now-and-then.xhtml" media-type="application/xhtml+xml"/>
@@ -297,6 +298,7 @@
 		<itemref idref="now-and-then.xhtml"/>
 		<itemref idref="the-spinning-wheel.xhtml"/>
 		<itemref idref="the-venomous-viper-of-the-volga.xhtml"/>
+		<itemref idref="man-not-overboard.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
