@@ -240,6 +240,7 @@
 		<item href="text/tour-y-10.xhtml" id="tour-y-10.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/travelogue.xhtml" id="travelogue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wedding-day.xhtml" id="wedding-day.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-of-it.xhtml" id="what-of-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/where-do-you-get-that-noise.xhtml" id="where-do-you-get-that-noise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/who-dealt.xhtml" id="who-dealt.xhtml" media-type="application/xhtml+xml"/>
@@ -309,6 +310,7 @@
 		<itemref idref="liberty-hall.xhtml"/>
 		<itemref idref="there-are-smiles.xhtml"/>
 		<itemref idref="mr-frisbie.xhtml"/>
+		<itemref idref="wedding-day.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
