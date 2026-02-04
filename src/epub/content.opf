@@ -232,6 +232,7 @@
 		<item href="text/the-jade-necklace.xhtml" id="the-jade-necklace.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-last-night.xhtml" id="the-last-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-love-nest.xhtml" id="the-love-nest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-maysville-minstrel.xhtml" id="the-maysville-minstrel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-poor-simp.xhtml" id="the-poor-simp.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-spinning-wheel.xhtml" id="the-spinning-wheel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-story-of-a-wonder-man.xhtml" id="the-story-of-a-wonder-man.xhtml" media-type="application/xhtml+xml"/>
@@ -316,6 +317,7 @@
 		<itemref idref="mr-frisbie.xhtml"/>
 		<itemref idref="wedding-day.xhtml"/>
 		<itemref idref="dinner.xhtml"/>
+		<itemref idref="the-maysville-minstrel.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
