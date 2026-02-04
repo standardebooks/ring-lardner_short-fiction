@@ -12,6 +12,12 @@
 			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
 		</ignore>
 	</file>
+	<file path="nora.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>The hyphen is at the end of the line on purpose. It moves the second half of the word to the next line to preserve poetic rhyme and rhythm.</reason>
+		</ignore>
+	</file>
 	<file path="the-battle-of-the-century.xhtml">
 		<ignore>
 			<code>t-003</code>
