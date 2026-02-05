@@ -233,6 +233,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-conference.xhtml" id="in-conference.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/liberty-hall.xhtml" id="liberty-hall.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mamma.xhtml" id="mamma.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/man-not-overboard.xhtml" id="man-not-overboard.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-and-mrs-fix-it.xhtml" id="mr-and-mrs-fix-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mr-frisbie.xhtml" id="mr-frisbie.xhtml" media-type="application/xhtml+xml"/>
@@ -357,6 +358,7 @@
 		<itemref idref="that-old-sweetheart-of-mine.xhtml"/>
 		<itemref idref="great-blessings.xhtml"/>
 		<itemref idref="second-act-curtain.xhtml"/>
+		<itemref idref="mamma.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
