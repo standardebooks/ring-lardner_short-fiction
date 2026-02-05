@@ -118,11 +118,13 @@
 		<dc:source>https://archive.org/details/sim_cosmopolitan_1927-09_83_3</dc:source>
 		<!-- Wedding Day: page 66 -->
 		<dc:source>https://archive.org/details/sim_cosmopolitan_1928-07_85_1</dc:source>
+		<!-- Absentminded Beggar: page 70 -->
+		<dc:source>https://archive.org/details/sim_cosmopolitan_1929-03_86_3</dc:source>
 		<!-- Manual Transcriptions -->
 		<!-- Sick ’Em, Back to Baltimore, Phil and His 4d, Tour No. 2, The Poor Simp, Where Do You Get That Noise?, Oh You Bonehead!, Good for the Soul -->
 		<!-- A One-Man Team, Tour Y-10, The Holdout, Ball-a-Hole, Gas Oil and Air, The Yellow Kid, The Last Night, The Battle of the Century, Bedtime Stories -->
 		<!-- A Closeup of Domba Splew, What of It?, “In Conference”, The Jade Necklace, The Story of a Wonder Man, The Spinning Wheel, The Venomous Viper of the Volga -->
-		<!-- Wedding Day -->
+		<!-- Wedding Day, Absentminded Beggar -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">"The Clubby Roadster" had very poor quality scans. One illegible word was filled in with context clues and an educated guess. In dialect-heavy works, the spelling errors were preserved if they were likely to be intentional based on ngrams and other Lardner stories of the era.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
