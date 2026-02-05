@@ -280,6 +280,7 @@
 		<item href="text/where-do-you-get-that-noise.xhtml" id="where-do-you-get-that-noise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/who-dealt.xhtml" id="who-dealt.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/women.xhtml" id="women.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/words-and-music.xhtml" id="words-and-music.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/zone-of-quiet.xhtml" id="zone-of-quiet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -359,6 +360,7 @@
 		<itemref idref="great-blessings.xhtml"/>
 		<itemref idref="second-act-curtain.xhtml"/>
 		<itemref idref="mamma.xhtml"/>
+		<itemref idref="words-and-music.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
