@@ -225,6 +225,7 @@
 		<item href="text/good-for-the-soul.xhtml" id="good-for-the-soul.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/haircut.xhtml" id="haircut.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/harmony.xhtml" id="harmony.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/high-rollers.xhtml" id="high-rollers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/horseshoes.xhtml" id="horseshoes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hurry-kane.xhtml" id="hurry-kane.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/i-cant-breathe.xhtml" id="i-cant-breathe.xhtml" media-type="application/xhtml+xml"/>
@@ -345,6 +346,7 @@
 		<itemref idref="old-folks-christmas.xhtml"/>
 		<itemref idref="contract.xhtml"/>
 		<itemref idref="absentminded-beggar.xhtml"/>
+		<itemref idref="high-rollers.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
