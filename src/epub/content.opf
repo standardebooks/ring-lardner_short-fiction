@@ -190,6 +190,7 @@
 		<item href="text/a-day-with-conrad-green.xhtml" id="a-day-with-conrad-green.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-frame-up.xhtml" id="a-frame-up.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-one-man-team.xhtml" id="a-one-man-team.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/absentminded-beggar.xhtml" id="absentminded-beggar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/alibi-ike.xhtml" id="alibi-ike.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anniversary.xhtml" id="anniversary.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/back-to-baltimore.xhtml" id="back-to-baltimore.xhtml" media-type="application/xhtml+xml"/>
@@ -324,6 +325,7 @@
 		<itemref idref="ex-parte.xhtml"/>
 		<itemref idref="old-folks-christmas.xhtml"/>
 		<itemref idref="contract.xhtml"/>
+		<itemref idref="absentminded-beggar.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
