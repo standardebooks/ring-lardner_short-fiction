@@ -241,6 +241,7 @@
 		<item href="text/oh-you-bonehead.xhtml" id="oh-you-bonehead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/old-folks-christmas.xhtml" id="old-folks-christmas.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/phil-and-his-4d.xhtml" id="phil-and-his-4d.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pity-is-akin.xhtml" id="pity-is-akin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reunion.xhtml" id="reunion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rhythm.xhtml" id="rhythm.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
@@ -349,6 +350,7 @@
 		<itemref idref="absentminded-beggar.xhtml"/>
 		<itemref idref="high-rollers.xhtml"/>
 		<itemref idref="stop-me-if-youve-heard-this-one.xhtml"/>
+		<itemref idref="pity-is-akin.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
