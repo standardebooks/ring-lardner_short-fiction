@@ -245,6 +245,7 @@
 		<item href="text/pity-is-akin.xhtml" id="pity-is-akin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/reunion.xhtml" id="reunion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rhythm.xhtml" id="rhythm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/second-act-curtain.xhtml" id="second-act-curtain.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sick-em.xhtml" id="sick-em.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/some-like-them-cold.xhtml" id="some-like-them-cold.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/stop-me-if-youve-heard-this-one.xhtml" id="stop-me-if-youve-heard-this-one.xhtml" media-type="application/xhtml+xml"/>
@@ -355,6 +356,7 @@
 		<itemref idref="pity-is-akin.xhtml"/>
 		<itemref idref="that-old-sweetheart-of-mine.xhtml"/>
 		<itemref idref="great-blessings.xhtml"/>
+		<itemref idref="second-act-curtain.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
