@@ -1,80 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="a-caddys-diary.xhtml">
-		<ignore>
-			<code>t-015</code>
+		<ignore code="t-015">
 			<reason>The narrator of this story writes in an idiosyncratic style. Adding the commas to numbers would add enough polish to meaningfully alter his characterization.</reason>
 		</ignore>
 	</file>
 	<file path="champion.xhtml">
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
 		</ignore>
 	</file>
 	<file path="nora.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>The hyphen is at the end of the line on purpose. It moves the second half of the word to the next line to preserve poetic rhyme and rhythm.</reason>
 		</ignore>
 	</file>
 	<file path="the-battle-of-the-century.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>This appears to be a second paragraph from the same speaker. This is grammatically correct.</reason>
 		</ignore>
 	</file>
 	<file path="the-story-of-a-wonder-man.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>The title of a newspaper is embedded in these chapter titles, and so "The" is uppercase.</reason>
 		</ignore>
 	</file>
 	<file path="tour-no-2.xhtml">
-		<ignore>
-			<code>t-010</code>
-			<reason>This story is written in an idiosyncratic style so typographic choices should be assumed as deliberate and changing them could alter the character's "voice"</reason>
-		</ignore>
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
 		</ignore>
-		<ignore>
-			<code>t-030</code>
+		<ignore code="t-030">
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The incorrectly formatted initialisms are intentional</reason>
 		</ignore>
-		<ignore>
-			<code>t-057</code>
+		<ignore code="t-057">
 			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
 		</ignore>
-		<ignore>
-			<code>t-064</code>
+		<ignore code="t-064">
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The incorrectly capitalization of the ship name is intentional.</reason>
 		</ignore>
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The single letters here are not graphemes or phonemes, just intentionally bad grammar.</reason>
 		</ignore>
 	</file>
 	<file path="what-of-it.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>The question mark is inside the italics tag because the question mark is part of the title of the play.</reason>
 		</ignore>
-		<ignore>
-			<code>t-064</code>
+		<ignore code="t-064">
 			<reason>Leaving this improperly titlecased because it's in a telegram which would not likely have been transmitted with proper capitalization in mind.</reason>
 		</ignore>
 	</file>
 	<file path="women.xhtml">
-		<ignore>
-			<code>t-008</code>
+		<ignore code="t-008">
 			<reason>The first single quote is an elision character, so having it duplicated is fine her.</reason>
 		</ignore>
 	</file>
 	<file path="zone-of-quiet.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>The question mark is inside the italics tag because the question mark is part of the title of the play.</reason>
 		</ignore>
 	</file>
