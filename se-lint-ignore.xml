@@ -18,6 +18,12 @@
 			<reason>The hyphen is at the end of the line on purpose. It moves the second half of the word to the next line to preserve poetic rhyme and rhythm.</reason>
 		</ignore>
 	</file>
+	<file path="rhythm.xhtml">
+		<ignore code="t-007">
+			<line>55</line>
+			<reason>The name of the newspaper has a possessive, so it belongs in the italics.</reason>
+		</ignore>
+	</file>
 	<file path="the-battle-of-the-century.xhtml">
 		<ignore code="t-003">
 			<line>63</line>
@@ -26,8 +32,8 @@
 	</file>
 	<file path="the-story-of-a-wonder-man.xhtml">
 		<ignore code="s-023">
-			<line>334</line>
-			<line>359</line>
+			<line>340</line>
+			<line>365</line>
 			<reason>The title of a newspaper is embedded in these chapter titles, and so "The" is uppercase.</reason>
 		</ignore>
 	</file>
