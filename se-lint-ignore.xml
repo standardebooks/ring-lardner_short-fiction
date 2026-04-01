@@ -75,7 +75,7 @@
 	<file path="women.xhtml">
 		<ignore code="t-008">
 			<line>119</line>
-			<reason>The first single quote is an elision character, so having it duplicated is fine her.</reason>
+			<reason>The first single quote is an elision character, so having it duplicated is fine here.</reason>
 		</ignore>
 	</file>
 	<file path="zone-of-quiet.xhtml">
