@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-02T18:53:17Z</dc:date>
+		<meta property="dcterms:modified">2026-04-02T18:53:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,9 +53,9 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short stories by Ring Lardner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was a prolific 20th century American humorist and journalist most well known for his baseball stories and reportage whose corpus nevertheless spans a wide range of genres and styles. His professional career started as a sports section reporter but his literary career began in earnest in 1913 when he took over the &lt;i&gt;Chicago Tribune&lt;/i&gt;’s popular “In the Wake of the News” column, for which he wrote daily until 1919. This column would serve as a platform for all manner of his writing including reportage, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner/poetry"&gt;Poetry&lt;/a&gt;&lt;/i&gt;, short plays, and even satirical essays.&lt;/p&gt;
-			&lt;p&gt;Lardner gained a reputation for his ability to capture the voice and dialect of middle America in a captivating way that drew the notice of extremely popular and prominent authors of his era, from &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt; to &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;. His career as an author of short fiction took off when his &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;Jack Keefe Stories&lt;/a&gt;&lt;/i&gt; became an instant hit in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; and launched a career as a magazine-first author of fiction that spanned over 100 different stories published in the most popular magazines of the day, including &lt;i&gt;The Saturday Evening Post&lt;/i&gt;, &lt;i&gt;Collier’s&lt;/i&gt;, &lt;i&gt;Redbook&lt;/i&gt;, and &lt;i&gt;Cosmopolitan&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;A disenchantment with baseball following the infamous game-fixing scandal involving his beloved Chicago White Sox in the 1919 World Series and a tuberculosis diagnosis in the 1920s mark a sharp decrease in the length of his stories, a pivot away from baseball as a subject, and a generally darker shift in tone. This era, however, is when some of his most well-known and often-cited stories such as “Haircut” and “Some Like Them Cold” were written, the latter of which would later be adapted into his full-length stage play, June Moon. Lardner produced so many works of short fiction in his lifetime that stories would continue to appear in popular magazines for years after his death in 1933. Many of the stories included in this collection originally appeared only once, in popular magazines of the early twentieth century, and have not been widely available to readers for nearly a century.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was a prolific 20th century American humorist and journalist best known for his baseball stories and reportage, whose corpus nevertheless spans a wide range of genres and styles. He bean his professional career as a sports reporter, but his literary career began in earnest in 1913 when he took over the &lt;i&gt;Chicago Tribune&lt;/i&gt;’s popular “In the Wake of the News” column, for which he wrote daily until 1919.&lt;/p&gt;
+			&lt;p&gt;His career as an author of short fiction took off when his &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;Jack Keefe Stories&lt;/a&gt;&lt;/i&gt; became an instant hit in the &lt;i&gt;Saturday Evening Post&lt;/i&gt;, launching his career as a magazine-first author of fiction that spanned over one hundred different stories published in the era’s most popular magazines, including &lt;i&gt;The Saturday Evening Post&lt;/i&gt;, &lt;i&gt;Collier’s&lt;/i&gt;, &lt;i&gt;Redbook&lt;/i&gt;, and &lt;i&gt;Cosmopolitan&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;A disenchantment with baseball following the infamous game-fixing scandal involving his beloved Chicago White Sox in the 1919 World Series, followed by a tuberculosis diagnosis, mark a sharp decrease in the length of his stories, a pivot away from baseball as a subject, and a shift to a generally darker tone. This era, however, is when he wrote some of his most well-known and often-cited stories, like “Haircut” and “Some Like Them Cold,” the latter of which would later be adapted into his full-length stage play, &lt;i&gt;June Moon&lt;/i&gt;. Lardner produced so many works of short fiction that stories would continue to appear in popular magazines for years after his death. Many of the stories in this edition have never been reprinted, remaining unavailable to readers for nearly a century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- My Roomy, Horseshoes, Alibi Ike, Harmony, Champion, The Facts, A Frame-Up, Some Like Them Cold, A Caddy’s Diary, The Golden Honeymoon, Haircut, Mr. and Mrs. Fix-It, -->
@@ -144,8 +144,8 @@
 		<!-- Second-Act Curtain, Mamma, Words and Music -->
 		<dc:source>https://github.com/homestar92/ring-lardner-transcriptions</dc:source>
 		<meta property="se:production-notes">"The Clubby Roadster" had very poor quality scans. One illegible word was filled in with context clues and an educated guess. In dialect-heavy works, the spelling errors were preserved if they were likely to be intentional based on ngrams and other Lardner stories of the era.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">456577</meta>
+		<meta property="se:reading-ease.flesch">81.53</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_short-fiction</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
@@ -195,6 +195,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
