@@ -12,6 +12,14 @@
 			<reason>This letter is written in an idiosyncratic style. Lowercase letters start sentences intentionally.</reason>
 		</ignore>
 	</file>
+	<file path="mr-and-mrs-fix-it.xhtml">
+		<ignore code="t-030">
+			<line>72</line>
+			<line>75</line>
+			<line>84</line>
+			<reason>This story is written in an idiosyncratic style by a barely literate narrator. The incorrectly formatted initialisms are intentional</reason>
+		</ignore>
+	</file>
 	<file path="nora.xhtml">
 		<ignore code="t-033">
 			<line>76</line>
