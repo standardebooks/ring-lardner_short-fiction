@@ -1,0 +1,1 @@
+"The Clubby Roadster" had very poor quality scans. One illegible word was filled in with context clues and an educated guess. In dialect-heavy works, the spelling errors were preserved if they were likely to be intentional based on ngrams and other Lardner stories of the era.
