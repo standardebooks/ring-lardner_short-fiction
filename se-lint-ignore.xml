@@ -2,7 +2,10 @@
 <se-lint-ignore>
 	<file path="a-caddys-diary.xhtml">
 		<ignore code="t-015">
+			<line>163</line>
+			<line>166</line>
 			<line>168</line>
+			<line>180</line>
 			<reason>The narrator of this story writes in an idiosyncratic style. Adding the commas to numbers would add enough polish to meaningfully alter his characterization.</reason>
 		</ignore>
 	</file>
@@ -46,6 +49,14 @@
 		</ignore>
 	</file>
 	<file path="tour-no-2.xhtml">
+		<ignore code="t-015">
+			<line>17</line>
+			<line>20</line>
+			<line>45</line>
+			<line>46</line>
+			<line>58</line>
+			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
+		</ignore>
 		<ignore code="t-029">
 			<reason>This story is written in an idiosyncratic style. Lowercase letters start sentences and paragraphs intentionally</reason>
 		</ignore>
