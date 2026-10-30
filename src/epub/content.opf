@@ -181,7 +181,6 @@
 		<dc:contributor id="transcriber-5">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Wikisource</meta>
 		<link href="https://en.wikisource.org/" refines="#transcriber-5" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Wikisource" refines="#transcriber-5" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-6">Tim Miller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">Miller, Tim</meta>
